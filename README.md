@@ -14,7 +14,7 @@ Oxygen OS Port for Sweet by Team Crafters
 - Flash Rom
 -  Reboot
   
---Encrypted User or 1st Time on OOS--
+--Encrypted User or 1st Time--
 
 - Wipe Data , Metadata , Cache
 - Flash Rom
