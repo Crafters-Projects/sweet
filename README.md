@@ -22,7 +22,8 @@ Oxygen OS Port for Sweet by Team Crafters
 ### Note
 - If After reboot Stuck 30hz laggy feel go to display settings and reselect 120hz 
 
-▪️  IMPORTANT ▪
+▪️ IMPORTANT ▪️
+
 ⚠️READ FLASHING STEPS FIRST . DON'T DOWNLOAD LETEST UPDATE FROM SETTINGS IT WILL F-UP YOUR DEVICE AND DON'T BALME US⚠️
 
 ### Changelog
